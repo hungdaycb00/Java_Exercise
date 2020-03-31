@@ -1,11 +1,8 @@
-package Test;
-
-import Oop_15.Author;
-import Oop_15.Book;
+package Oop_15;
 
 import java.util.Arrays;
 
-public class Testbook {
+public class TestBook {
 
     public static void main(String[] args) {
 

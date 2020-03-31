@@ -20,6 +20,13 @@ public class Point3D extends Point2D {
     public void setZ(int z){
         this.z = z;
     }
+    public int[] getXYZ(){
+        int[] results = new int[3];
+        results[0] = this.getX();
+        results[1] = this.getY();
+        results[2] = this.getZ();
+        return  results;
+    }
     //return (x,y,z)
     public String toString(){
         return "(" + super.getX() + "," + super.getY() + "," + this.z + ")";

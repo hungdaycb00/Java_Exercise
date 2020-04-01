@@ -21,13 +21,13 @@ public class TestPerson {
             }
         }
 
-//        for(String Course: courses){
-//            if(t1.removeCourse(course)){
-//                System.out.println(course + " removed");
-//            } else{
-//                System.out.println(course + " cannot be removed");
-//            }
-//        }
+        for(String course: courses){
+            if(t1.removeCourse(course)){
+                System.out.println(course + " removed");
+            } else{
+                System.out.println(course + " cannot be removed");
+            }
+        }
 
     }
 }

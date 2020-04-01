@@ -2,34 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="641c3338-23ad-460c-8c4f-323901d08060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession4/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession4/TestLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_17/Cicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_17/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_17/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_17/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_17/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_17/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/TestMyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/MyCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/MyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/TestAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/TestBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/TestInvoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_15/TestMyCicre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Monster/FireMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Monster/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Monster/StaneMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Monster/WaterMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Up_downcasting/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Up_downcasting/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Up_downcasting/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/Up_downcasting/TestCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_18/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Interface/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Interface/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Interface/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Interface/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Monster/FireMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Monster/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Monster/StaneMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Monster/WaterMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Movable/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Movable/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Movable/TestMovable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_19/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss6_Customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ss6_Customer/Window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession16_2/LineSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession16_2/LineSub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession16_2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession16_2/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession4/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession4/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_16/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_16/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop/Testbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop/Testbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Lession16_2/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Lession16_2/TestPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_17/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_17/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lession16_2/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession16_2/TestPerson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +67,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lession_19" />
   </component>
-  <component name="RunManager" selected="Application.Square">
-    <configuration name="Cicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_17.Cicle" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aptech\Java_Exercise\src\Lession_19" />
+      <recent name="D:\Aptech\Java_Exercise\src\Lession_18" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Customer">
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss6_Customer.Customer" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_17.*" />
+          <option name="PATTERN" value="Ss6_Customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovablePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_17.MovablePoint" />
+    <configuration name="TestCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lession_18.Up_downcasting.TestCasting" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_17.*" />
+          <option name="PATTERN" value="Lession_18.Up_downcasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_17.Square" />
+    <configuration name="TestMovable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lession_19.Movable.TestMovable" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_17.*" />
+          <option name="PATTERN" value="Lession_19.Movable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop_15.TestAccount" />
+    <configuration name="TestShape (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lession_19.TestShape" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop_15.*" />
+          <option name="PATTERN" value="Lession_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInvoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop_15.TestInvoice" />
+    <configuration name="TestShape (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lession_19.Interface.TestShape" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop_15.*" />
+          <option name="PATTERN" value="Lession_19.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Square" />
-        <item itemvalue="Application.Cicle" />
-        <item itemvalue="Application.MovablePoint" />
-        <item itemvalue="Application.TestAccount" />
-        <item itemvalue="Application.TestInvoice" />
+        <item itemvalue="Application.Customer" />
+        <item itemvalue="Application.TestMovable" />
+        <item itemvalue="Application.TestShape (2)" />
+        <item itemvalue="Application.TestShape (1)" />
+        <item itemvalue="Application.TestCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +165,9 @@
       <workItem from="1585456157805" duration="2754000" />
       <workItem from="1585468896153" duration="26059000" />
       <workItem from="1585558309586" duration="7518000" />
+      <workItem from="1585619062318" duration="9619000" />
+      <workItem from="1585661937415" duration="4115000" />
+      <workItem from="1585718610807" duration="6944000" />
     </task>
     <servers />
   </component>
@@ -157,34 +175,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1585574300242">
+    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1585719848319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585574300242" />
+    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585719848319" />
     <state x="1032" y="114" key="CommitChangelistDialog2" timestamp="1585532977881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585532977881" />
-    <state width="984" height="279" key="GridCell.Tab.0.bottom" timestamp="1585580773585">
+    <state width="969" height="279" key="GridCell.Tab.0.bottom" timestamp="1585755175534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="984" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585580773585" />
-    <state width="984" height="279" key="GridCell.Tab.0.center" timestamp="1585580773584">
+    <state width="969" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585755175534" />
+    <state width="969" height="279" key="GridCell.Tab.0.center" timestamp="1585755175533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="984" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585580773584" />
-    <state width="984" height="279" key="GridCell.Tab.0.left" timestamp="1585580773584">
+    <state width="969" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585755175533" />
+    <state width="969" height="279" key="GridCell.Tab.0.left" timestamp="1585755175533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="984" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585580773584" />
-    <state width="984" height="279" key="GridCell.Tab.0.right" timestamp="1585580773584">
+    <state width="969" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585755175533" />
+    <state width="969" height="279" key="GridCell.Tab.0.right" timestamp="1585755175534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="984" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585580773584" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585558440616">
+    <state width="969" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585755175534" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585719510512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585558440616" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585719510512" />
     <state x="1216" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585532964320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

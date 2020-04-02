@@ -10,6 +10,9 @@ public class Triangle implements Shape {
         this.base = base;
         this.height = height;
     }
+    public double getCong(){
+        return base + height;
+    }
 
     @Override
     public String toString() {
@@ -23,4 +26,5 @@ public class Triangle implements Shape {
     public double getArea() {
         return 0.5*base*height;
     }
+
 }

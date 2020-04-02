@@ -7,6 +7,9 @@ public class Rectangle implements Shape {
         this.length = length;
         this.width = width;
     }
+    public double getCong(){
+        return width + length;
+    }
 
     @Override
     public String toString() {
@@ -16,8 +19,9 @@ public class Rectangle implements Shape {
                 '}';
     }
 
-    @Override
+
     public double getArea() {
         return width * length;
     }
+
 }

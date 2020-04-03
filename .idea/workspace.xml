@@ -2,37 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="641c3338-23ad-460c-8c4f-323901d08060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interface_Movable/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interface_Movable/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interface_Movable/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interface_Movable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interface_Movable/TestMovable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interfaces_GeometricObject/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interfaces_GeometricObject/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interfaces_GeometricObject/ResiableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interfaces_GeometricObject/Resizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Interfaces_GeometricObject/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Polymorphism/BigDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Polymorphism/TestAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lession_20/Abstract/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/MethodCallStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/TextFileFormatterWithThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/TextFileScannerWithThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/TryCatchFinally.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Interface/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Interface/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Interface/TestShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Interface/TestShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Interface/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Interface/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Monster/StaneMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Lession_19/Monster/StaneMonster.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Ss6_Customer/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Ss6_Customer/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_19/Interface/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_19/Interface/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_19/Interface/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_19/Interface/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_19/Interface/TestShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_19/Interface/TestShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_19/Interface/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_19/Interface/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_19/Monster/StaneMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_19/Monster/StaneMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ss6_Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ss6_Customer/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,14 +46,19 @@
       <recent name="D:\Aptech\Java_Exercise\src\Lession_19" />
       <recent name="D:\Aptech\Java_Exercise\src\Lession_18" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Aptech\Java_Exercise" />
+      <recent name="D:\Aptech\Java_Exercise\src\Exception" />
+      <recent name="D:\Aptech\Java_Exercise\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_20.Abstract.Interfaces_GeometricObject.Test" />
+  <component name="RunManager" selected="Application.TryCatchFinally">
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ss6_Customer.Customer" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_20.Abstract.Interfaces_GeometricObject.*" />
+          <option name="PATTERN" value="Ss6_Customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_20.Abstract.Polymorphism.TestAnimal" />
+    <configuration name="MethodCallStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.MethodCallStackDemo" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_20.Abstract.Polymorphism.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMovable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_20.Abstract.Interface_Movable.TestMovable" />
+    <configuration name="TextFileFormatterWithThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.TextFileFormatterWithThrows" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_20.Abstract.Interfaces_GeometricObject.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestShape (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_19.Interface.TestShape" />
+    <configuration name="TextFileScannerWithThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.TextFileScannerWithThrows" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_19.Interface.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_20.Abstract.TestShape" />
+    <configuration name="TryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.TryCatchFinally" />
       <module name="Java_Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_20.Abstract.Polymorphism.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestMovable (1)" />
-        <item itemvalue="Application.TestAnimal" />
-        <item itemvalue="Application.TestShape" />
-        <item itemvalue="Application.TestShape (2)" />
+        <item itemvalue="Application.TryCatchFinally" />
+        <item itemvalue="Application.Customer" />
+        <item itemvalue="Application.MethodCallStackDemo" />
+        <item itemvalue="Application.TextFileScannerWithThrows" />
+        <item itemvalue="Application.TextFileFormatterWithThrows" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +146,10 @@
       <workItem from="1585661937415" duration="4115000" />
       <workItem from="1585718610807" duration="6944000" />
       <workItem from="1585788900213" duration="11220000" />
-      <workItem from="1585817628685" duration="3271000" />
+      <workItem from="1585817628685" duration="3872000" />
+      <workItem from="1585834652033" duration="616000" />
+      <workItem from="1585879989019" duration="1048000" />
+      <workItem from="1585881662662" duration="4471000" />
     </task>
     <servers />
   </component>
@@ -172,10 +157,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1585817956387">
+    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1585893251441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585817956387" />
+    <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585893251441" />
     <state x="1144" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585820246575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -184,26 +169,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585532977881" />
-    <state width="969" height="279" key="GridCell.Tab.0.bottom" timestamp="1585820912030">
+    <state width="969" height="279" key="GridCell.Tab.0.bottom" timestamp="1585901653962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585820912030" />
-    <state width="969" height="279" key="GridCell.Tab.0.center" timestamp="1585820912029">
+    <state width="969" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653962" />
+    <state width="969" height="279" key="GridCell.Tab.0.center" timestamp="1585901653961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585820912029" />
-    <state width="969" height="279" key="GridCell.Tab.0.left" timestamp="1585820912029">
+    <state width="969" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653961" />
+    <state width="969" height="279" key="GridCell.Tab.0.left" timestamp="1585901653961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585820912029" />
-    <state width="969" height="279" key="GridCell.Tab.0.right" timestamp="1585820912029">
+    <state width="969" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653961" />
+    <state width="969" height="279" key="GridCell.Tab.0.right" timestamp="1585901653961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585820912029" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585817644753">
+    <state width="969" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653961" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585881664448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585817644753" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585881664448" />
     <state x="1216" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585532964320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

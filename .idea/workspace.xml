@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="641c3338-23ad-460c-8c4f-323901d08060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/MethodCallStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/TextFileFormatterWithThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/TextFileScannerWithThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/TryCatchFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/TiengKeu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Exercise/Ss6_Customer/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Exercise/Ss6_Customer/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ss6_Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ss6_Customer/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +144,8 @@
       <workItem from="1585817628685" duration="3872000" />
       <workItem from="1585834652033" duration="616000" />
       <workItem from="1585879989019" duration="1048000" />
-      <workItem from="1585881662662" duration="4471000" />
+      <workItem from="1585881662662" duration="7795000" />
+      <workItem from="1585961237672" duration="214000" />
     </task>
     <servers />
   </component>
@@ -161,6 +157,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585893251441" />
+    <state x="1168" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585925894341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1168" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585925894341" />
     <state x="1144" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585820246575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -169,30 +169,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585532977881" />
-    <state width="969" height="279" key="GridCell.Tab.0.bottom" timestamp="1585901653962">
+    <state width="969" height="279" key="GridCell.Tab.0.bottom" timestamp="1585926972020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653962" />
-    <state width="969" height="279" key="GridCell.Tab.0.center" timestamp="1585901653961">
+    <state width="969" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585926972020" />
+    <state width="969" height="279" key="GridCell.Tab.0.center" timestamp="1585926972020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653961" />
-    <state width="969" height="279" key="GridCell.Tab.0.left" timestamp="1585901653961">
+    <state width="969" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585926972020" />
+    <state width="969" height="279" key="GridCell.Tab.0.left" timestamp="1585926972020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653961" />
-    <state width="969" height="279" key="GridCell.Tab.0.right" timestamp="1585901653961">
+    <state width="969" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585926972020" />
+    <state width="969" height="279" key="GridCell.Tab.0.right" timestamp="1585926972020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="969" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585901653961" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585881664448">
+    <state width="969" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585926972020" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585961239279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585881664448" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585961239279" />
     <state x="1216" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585532964320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1216" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585532964320" />
+    <state x="685" y="140" key="new project wizard" timestamp="1585961430652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585961430652" />
     <state x="1070" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1585534136901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
